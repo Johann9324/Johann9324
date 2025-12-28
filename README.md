@@ -15,10 +15,10 @@
 
 ## 🛠️ Stack principal
 **Lenguajes**
-- Python · JavaScript · HTML · CSS  
+Python · JavaScript · HTML · CSS  
 
 **Frameworks & Herramientas**
-- Django · FastAPI · Docker · MySQL · Git  
+Django · FastAPI · Docker · MySQL · Git  
 
 ---
 
@@ -36,14 +36,4 @@
 | **BarberB** | Sistema de gestión para barberías y PYMES |
 | **Portafolio Web** | Presentación de proyectos y perfil profesional |
 
----
 
-## 📊 Actividad en GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=MikeBoss80&show_icons=true&theme=dark)
-
----
-
-## 📬 Contacto
-- 📧 Email: miguelbolivar3000@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/miguel-angel-bolivar-621620345  
-- 🌐 Portafolio: https://mikeboss80.github.io/portafoli
