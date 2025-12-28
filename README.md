@@ -33,7 +33,10 @@ Django · FastAPI · Docker · MySQL · Git
 
 | Proyecto | Enfoque |
 |--------|--------|
-| **BarberB** | Sistema de gestión para barberías y PYMES |
+| **BarberB** | Sistema de gestión para barberías |
+| **Clobuy | Eccomerce de tecnologia |
+
+
 | **Portafolio Web** | Presentación de proyectos y perfil profesional |
 
 
